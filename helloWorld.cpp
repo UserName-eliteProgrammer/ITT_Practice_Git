@@ -2,7 +2,7 @@
 
 void printHello()
 {
-    std :: cout << "Hello!!" << endl;
+    std :: cout << "Hii!!" << endl;
     return;
 }
 
